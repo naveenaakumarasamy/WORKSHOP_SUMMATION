@@ -129,7 +129,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![Output](/Op1-javawp.png)
+![image](https://github.com/naveenaakumarasamy/WORKSHOP_SUMMATION/assets/113497406/23532cfc-8b55-492d-b11c-d2ccc34b7af5)
+
 
 ## Result:
 
